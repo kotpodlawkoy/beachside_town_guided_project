@@ -10,6 +10,9 @@
   * OmniSharp LSP server
   * Unity tool [kotpodlawkoy sln generator](https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator)
 
+# Link to web build
+[play](https://play.unity.com/en/games/98d01667-d081-4c8c-ad25-4016d624488c/beachsidetown)
+
 # Work done
 
 In the context of this project, the following work was done:
@@ -23,6 +26,8 @@ In the context of this project, the following work was done:
 * Audio settings and mixing + settings for various effects
 * User interface (UI)
 
+
+
 The project can be compiled in Unity
 
 # Описание
@@ -34,6 +39,9 @@ The project can be compiled in Unity
 * Vim 9.1 с зависимостями:
   * OmniSharp LSP server
   * Unity tool [kotpodlawkoy sln generator](https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator)
+
+# Ссылка на web build
+[играт](https://play.unity.com/en/games/98d01667-d081-4c8c-ad25-4016d624488c/beachsidetown)
 
 # Проведённая работа
 
